@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+author: Jeff
+author_login: admin
+author_email: jeff@allthingsdork.com
+author_url: http://www.allthingsdork.com
+wordpress_id: 79
+wordpress_url: http://www.allthingsdork.com/?p=79
+date: '2007-01-20 13:49:51 -0600'
+date_gmt: '2007-01-20 17:49:51 -0600'
+categories:
+- Random
+tags: []
+comments: []
+---
+<p>I'm at the Red Cross with Steph and figured I'd post a quick update. Haven't been up to much, just trying to keep my film group afloat and get some projects done.</p>
+<p>I'm gonna stop now. I'm typing this on my Treo 700P. Typing with your thumbs sucks! Untill later......</p>
+<p>Jeff</p>

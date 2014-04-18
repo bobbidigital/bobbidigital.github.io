@@ -3,28 +3,21 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+My name is Jeff and I'm a nerd. I like all of the classic nerdy things including
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+* Computers/Programming
+* Roleplaying Games (I'm playing [Dungeon World](www.dungeon-world.com) and [D&D 3.5](https://www.wizards.com/default.asp?x=dnd/archives)
+* [Photography)(https://www.flickr.com/photos/allthingsdork/), although it's been awhile
+* Comic Books
 
-There are currently two themes built on Poole:
+I'm sure I'm leaving something out, but you get the idea. You can find me on
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* [Twitter](https://www.twitter.com/DarkAndNerdy)
+* [Facebook](https://www.facebook.com/jeffery.smith.52438)
+* [Google+](https://plus.google.com/u/1/110230710699411860801/posts/p/pub) although I don't really post there
+* [Linkedin](http://www.linkedin.com/pub/jeffery-smith/2/16/37a/)
+* [Github](https://github.com/bobbidigital)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+....pretty sure that's everything. I'm also the president and co-founder of the [Chicago Nerd Social Club](http://www.chicagonerds.com), an organizaiton I'm really proud to be a part of.
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+I love meeting new peeps so feel free to drop me a line.

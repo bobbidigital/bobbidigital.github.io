@@ -1,0 +1,21 @@
+---
+layout: page
+status: publish
+published: true
+title: About Me
+author: Jeff
+author_login: admin
+author_email: jeff@allthingsdork.com
+author_url: http://www.allthingsdork.com
+wordpress_id: 2
+wordpress_url: http://2142254000
+date: '2006-09-22 13:09:20 -0500'
+date_gmt: '2006-09-22 20:09:20 -0500'
+categories: []
+tags: []
+comments: []
+---
+<p><img src="http://www.allthingsdork.com/wp-content/uploads/2013/12/557897_10200509835167990_1128544104_n.jpg" alt="557897 10200509835167990 1128544104 n" title="557897_10200509835167990_1128544104_n.jpg" border="0" width="148" height="150" style="float:left" /><br />
+Wow, just realized how long it's been since I've updated this page. I'm still Jeff. I'm a Systems Admin at <a href="http://www.grubhub.com">Grubhub</a>. I love my family, technology, and general nerdery. I'm also one of the founders and current president of <a href="http://www.chicagonerds.com">The Chicago Nerd Social Club</a></p></p>
+<p>Always willing to meet new folks so drop me a line if you have questions, comments or opportunities.</p></p>
+<p>Jeff</p></p>

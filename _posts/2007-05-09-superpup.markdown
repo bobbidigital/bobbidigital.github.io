@@ -1,0 +1,34 @@
+---
+layout: post
+status: publish
+published: true
+title: Superpup
+author: Jeff
+author_login: admin
+author_email: jeff@allthingsdork.com
+author_url: http://www.allthingsdork.com
+wordpress_id: 105
+wordpress_url: http://www.allthingsdork.com/?p=105
+date: '2007-05-09 23:38:05 -0500'
+date_gmt: '2007-05-10 03:38:05 -0500'
+categories:
+- Comic Books
+tags: []
+comments:
+- id: 766
+  author: Bob
+  author_email: bob@bobworld.com
+  author_url: ''
+  date: '2007-05-12 07:13:05 -0500'
+  date_gmt: '2007-05-12 11:13:05 -0500'
+  content: Whoa
+- id: 770
+  author: Aaron
+  author_email: siamus1@gmail.com
+  author_url: ''
+  date: '2007-05-12 23:58:19 -0500'
+  date_gmt: '2007-05-13 03:58:19 -0500'
+  content: lol!....wow
+---
+<p>I was watching a special on Superman that my fiance recorded for me. All in all it was good, but there was one piece that really made me shutter. And of course, it was  already on YouTube. Every super hero mythos has a dark time in their closet. My favorite character Batman was embarrassed on TV for a number of years by Adam West and crew. So it seem only fitting that Superman get the same treatment. I need to find thisl</p>
+<p><object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/lw6eDkczp00"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/lw6eDkczp00" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object></p>

@@ -1,0 +1,32 @@
+---
+layout: post
+status: publish
+published: true
+title: Hulu Still Stumbles...But What's the Real Issue?
+author: Jeff
+author_login: admin
+author_email: jeff@allthingsdork.com
+author_url: http://www.allthingsdork.com
+excerpt: |
+  October will be the 1 year anniversary of the Hulu.com private beta launch. While the launch has had some success from the stand point of viewers, I'm not sure what the financial results of the site are like. I do know that despite promises, I'm still really missing NBC shows on iTunes. As part of my <a href="http://www.allthingsdork.com/?p=389">no cable experiment</a> I've become even more closely acquainted with Hulu.com and some of it's features.
+
+  My biggest problem, not just with Hulu, is the order in which shows are digitized. While it's nice for nostalgia to be able to go back and watch 50 episodes of Adam-12, the reality is that most people who remember watching the show are now 50 years old. (Adam-12  came out in 1968. Assuming the viewer was 10) Most studies have shown that the younger generation are the largest group taking advantage of Internet streaming content. They're also the group that's more prone to <b>NOT</b> watch network television. (See <a href="http://www.marketingcharts.com/television/younger-viewers-use-tech-more-to-catch-up-on-favorite-tv-shows-2624/nielsen-broadcast-tv-episode-catch-up-means-by-age-genderjpg/">MarketingCharts.com</a> for some stats) That being said wouldn't it make more sense to get more recent shows up and streaming?
+wordpress_id: 411
+wordpress_url: http://www.allthingsdork.com/?p=411
+date: '2008-08-04 09:56:35 -0500'
+date_gmt: '2008-08-04 13:56:35 -0500'
+categories:
+- Movies/Television
+tags: []
+comments: []
+---
+<p>October will be the 1 year anniversary of the Hulu.com private beta launch. While the launch has had some success from the stand point of viewers, I'm not sure what the financial results of the site are like. I do know that despite promises, I'm still really missing NBC shows on iTunes. As part of my <a href="http://www.allthingsdork.com/?p=389">no cable experiment</a> I've become even more closely acquainted with Hulu.com and some of it's features.</p>
+<p>My biggest problem, not just with Hulu, is the order in which shows are digitized. While it's nice for nostalgia to be able to go back and watch 50 episodes of Adam-12, the reality is that most people who remember watching the show are now 50 years old. (Adam-12  came out in 1968. Assuming the viewer was 10) Most studies have shown that the younger generation are the largest group taking advantage of Internet streaming content. They're also the group that's more prone to <b>NOT</b> watch network television. (See <a href="http://www.marketingcharts.com/television/younger-viewers-use-tech-more-to-catch-up-on-favorite-tv-shows-2624/nielsen-broadcast-tv-episode-catch-up-means-by-age-genderjpg/">MarketingCharts.com</a> for some stats) That being said wouldn't it make more sense to get more recent shows up and streaming?<br />
+<a id="more"></a><a id="more-411"></a><br />
+I plop down on the couch to catch up on some of my favorite shows. To my displeasure I find that Battlestar Galactica has only 5 episodes available online. This is arguably one of the hottest Sci-fi properties on the air today. The SCI-FI network (which is owned by NBC) is gearing up for a <a href="http://scifipedia.scifi.com/index.php/Caprica_(TV_series)">spin-off series</a> in the very near future. Getting audience members up to speed sounds like it would be a prudent move doesn't it? </p>
+<p>Rule of thumb. If you have a show that's still on the air, their presence online is important to viewers. There are plenty of shows that I don't watch because I'm simply not caught up. The Internet is an excellent opportunity to help me get there. <a href="http://www.imdb.com/title/tt0810788/">Burn Notice</a> is an example of what Hulu has done correctly. The show is available online, all episodes from 1st season through what has aired on the second season. I'm now caught up and (if it weren't for my experiment) be prepared to watch the show on the old tube. BOOM! You just secured a viewer.</p>
+<p>My other issue is their quantity over quality approach. I'm not talking about the quality of the streaming video but rather the actual shows that they put online. <a href="http://www.hulu.com/team-knight-rider">Team Knight Rider</a> is available in its entirety on Hulu yet somehow not a single episode of The West Wing is to be found. Or even worse what about all those shows that are listed but don't actually have any episodes available. See that's a neat little trick because with Hulu only the shows with the little television set next to it actually have episodes. No icon means that you're going to be watching a bunch of irrelevant clips of a show.</p>
+<p>The major problem is the fear that the Internet could be cannibalizing their audience. With viewers watching on the much less profitable Internet, how do networks make up the difference in cost versus revenue? Gossip Girls is a clear example of a show with great Internet success, but lackluster Nielsen ratings. (Which is what ad buyers look at) As a result the CW network threatened to cancel streaming content of the show in an attempt to save live viewership.</p>
+<p>So the million dollar question is how can old media <b>stay</b> rich using new media? For starters the Nielsen ratings need to catch up with the times. Nielsen ratings don't take into account viewership via DVR or any web downloaded or streaming content. We need to either get ad buyers to force Nielsen to include such data or for the ratings system to be reinvented somehow.</p>
+<p>Let me throw out a proposal to you. What if you could subscribe to a television show via the network's website like a podcast? On air date it would download the exact same show that was broadcast for free from the networks, commercials intact though. Would that bother you? More importantly, what if in exchange for these free downloads your viewing patterns for said download were monitored and uploaded back to the network? Bits of information like "You watched our show at 2 am, again at 7 am and then started but didn't finish it at 3 pm." Is that too much information to share? What if when you subscribe to the show, you could select areas of interest so that your download of the show would have commercials that interest you? </p>
+<p>I guess my questions is, just how much are you willing to share to get free content in a format that <b>YOU</b> want it in?</p>

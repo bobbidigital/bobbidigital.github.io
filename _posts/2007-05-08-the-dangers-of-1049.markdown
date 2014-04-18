@@ -1,0 +1,40 @@
+---
+layout: post
+status: publish
+published: true
+title: The Dangers of 10.4.9
+author: Jeff
+author_login: admin
+author_email: jeff@allthingsdork.com
+author_url: http://www.allthingsdork.com
+wordpress_id: 103
+wordpress_url: http://www.allthingsdork.com/?p=103
+date: '2007-05-08 07:58:25 -0500'
+date_gmt: '2007-05-08 11:58:25 -0500'
+categories:
+- Random
+tags: []
+comments: []
+---
+<p><img src="http://www.allthingsdork.com/images/panic.png" width="154" height="100" border="2" class="right">So I patched my iBook to version 10.4.9 not too long ago. The problem that I always run into however is that I never seem to reboot right away. I always wait a little while because I run Software Updater when I'm in the middle of 1000 things. (Silly me) Well this time it seriously bit me in the ass.</p>
+<p>There is some bug during the prebinding process which is often masked as "Optimizing System Performance" after an install. So while I was doing 1000 other things, this prebinding bug was hit, but with no visual cue of trouble. Had I rebooted right away, I could have easily blamed the patch as the problem. But because I waited 3 days the memory gets a tad funny and you're never quite sure of the last thing you did.</p>
+<p>So after the reboot, the machine basically wouldn't boot past the "Mac OS X" splash screen, where you would normally see a small progress bar and then the login screen. So I tried booting in verbose mode, not much help. Single user mode, also not much help. So I decided to boot clear the NVRAM. Well that was probably bad. Because after that I started getting a Kernel panic</p>
+<p>So now I'm worse off than where I was. You get the dreaded "You need to restart your computer" error message in 5 different languages. So I did some research and found some kernel extension files I needed to delete. *GASP* I reboot in single user mode and got rid of the following files and directories.</p>
+<ul>
+<li>/System/Library/Caches/com.apple.kernelcaches</li>
+<li>/System/Library/Extensions.kextcache</li>
+<li>/System/Library/Extensions.mkext</li>
+<li>/Library/Caches/com.apple.ATS</li>
+<li>In/Library/Caches, remove all the com.apple.LaunchServices files.</li><br />
+</ul></p>
+<p>After removing those files and rebooting I was at least back where I started. I then read somewhere that it could have been part of the patch and re-installing the patch would help. But if the machine is dead, how can I reinstall it? Hmmm.. That's where target mode came in. I hooked my iBook up to my G5 and booted the iBook in Firewire disk mode. Then from the G5 I downloaded the patch, reinstalled it onto the iBooks hard disk and voila. Life was better. </p>
+<p>Turns out that the bug is actually a missing Library file. So the login screen is in fact crashing over and over again behind the Mac OS X splash screen. Cool huh? </p>
+<p>If you run into some problems here are some sites I found helpful</p>
+<ul>
+<li> <a href="http://www.macosxhints.com/article.php?story=20051130100940691">Mac OSX Hints</a></li>
+<li> <a href="http://members.optusnet.com.au/a1291762/2007/02/nasty-system-error.html">Lincoln Ramsey's Blog</a></li>
+<li> <a href="http://www.unsanity.org/archives/mac_os_x/shock_and_awe.php">Unsanity.org</a></li>
+<li> <a href="http://docs.info.apple.com/article.html?artnum=304822">Apple's Updater Download Page (10.4.9)</a></li>
+<li> <a href="http://www.fif3.com/howto/archives/001983.html">Mac OS X Boot Keys</a></li><br />
+</ul></p>
+<p>Happy patching.</p>

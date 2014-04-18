@@ -1,0 +1,36 @@
+---
+layout: post
+status: publish
+published: true
+title: GTD Tools
+author: Jeff
+author_login: admin
+author_email: jeff@allthingsdork.com
+author_url: http://www.allthingsdork.com
+wordpress_id: 82
+wordpress_url: http://www.allthingsdork.com/?p=82
+date: '2007-04-18 18:38:06 -0500'
+date_gmt: '2007-04-18 22:38:06 -0500'
+categories:
+- Random
+tags: []
+comments:
+- id: 105924
+  author: social networking software
+  author_email: ''
+  author_url: http://www.social-networking-software.org/
+  date: '2010-08-31 14:01:35 -0500'
+  date_gmt: '2010-08-31 20:01:35 -0500'
+  content: |-
+    <strong>social networking software...</strong>
+
+    Great post! I really liked the content and disposition in your topic!...
+---
+
+<p align="left"><img src="http://a2.vox.com/6a00c2251c52baf21900c2251c8102f219-500pi" alt="GTD Icon" title="GTD Icon" class="left" height="313" width="212" /> I've been on a long hard search for a good GTD implementation. Now let me start with saying that I absolutely LOVE Kinkless GTD. It is by far THE best implementation of GTD that I've ever used. Then why aren't using it? Portability. I've had a lot of sync issues with my Treo 700p, but the other large issue is the fact that it's run on my iBook and only my iBook. I've tried moving the Kinkless file to a USB thumb drive, but what happens when I don't have the drive? It's another item I've got to have around with me.</p></p>
+<p align="left">&nbsp;</p></p>
+<p align="left">  So I started using Vitalist, (http://www.vitalist.com)a web based GTD Solution. It has a mobile version as well, so it helps me dump items into my Inbox as they come, as opposed to having multiple inbox's depending on my location.</p></p>
+<p align="left">&nbsp;</p></p>
+<p align="left">So Vitalist has been working well for me except one big thing. There is no Next Actions logic. So there is a bit of hunting that needs to happen to make sure your working on a task that really is ready to be worked on. Because I'm lazy, I want a quick, simple way where I can go to my Next Actions list and just blow through them. That's a very important feature of a GTD implementation to that. If Vitalist were to do this, it would be perfect.</p></p>
+<p align="left">&nbsp;</p></p>
+<p align="left"> I have the same problem with my corporate implementation of GTD. (I use GTD for my office work, which is separate from my home/personal GTD implementation) At work I use the NetCentrics GTD plug-in for Outlook. (http://gtdsupport.netcentrics.com/home/) It has the same limitation. There is a bit of work in order to get the Next Actions and all that work is manual. I'm lazy. I want easy simple.  Anyone know of any good solutions? I also tried http://tracks.tra.in/ which had the same limitation. (Le Sigh) Please.....anything.</p></p>

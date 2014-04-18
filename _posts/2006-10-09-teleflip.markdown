@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: Teleflip
+author: Jeff
+author_login: admin
+author_email: jeff@allthingsdork.com
+author_url: http://www.allthingsdork.com
+wordpress_id: 25
+wordpress_url: http://www.allthingsdork.com/?p=25
+date: '2006-10-09 16:23:54 -0500'
+date_gmt: '2006-10-09 20:23:54 -0500'
+categories:
+- Random
+tags: []
+comments:
+- id: 105932
+  author: social networking software
+  author_email: ''
+  author_url: http://www.social-networking-software.org/
+  date: '2010-08-31 15:44:10 -0500'
+  date_gmt: '2010-08-31 21:44:10 -0500'
+  content: |-
+    <strong>social networking software...</strong>
+
+    Great post! I really liked the content and disposition in your topic!...
+---
+<p><img align="bottom" src="http://www.teleflip.com/graphics/telefliplogo.gif" />You know me, I'm a sucker for useful tools. So I share with you teleflip. It's a nice little service for those of us who e-mail people on their cell phones. (Instead of typing with yo thumbs) By sending an e-mail to <10digit phone number>@teleflip.com Teleflip will automatically route it to the correct carrier. This way you don't have to play the "Service Name" game. Cingular is "cingularme", Nextel is "page.nextel.com".&Acirc;&nbsp;&Acirc;&nbsp; Now you can just use teleflip and life is golden. You can thank me later.</p>

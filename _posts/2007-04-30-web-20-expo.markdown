@@ -1,0 +1,30 @@
+---
+layout: post
+status: publish
+published: true
+title: Web 2.0 Expo
+author: Jeff
+author_login: admin
+author_email: jeff@allthingsdork.com
+author_url: http://www.allthingsdork.com
+wordpress_id: 97
+wordpress_url: http://www.allthingsdork.com/?p=97
+date: '2007-04-30 00:45:03 -0500'
+date_gmt: '2007-04-30 04:45:03 -0500'
+categories:
+- Random
+tags: []
+comments:
+- id: 105967
+  author: social networking software
+  author_email: ''
+  author_url: http://www.social-networking-software.org/
+  date: '2010-08-31 18:59:26 -0500'
+  date_gmt: '2010-09-01 00:59:26 -0500'
+  content: |-
+    <strong>social networking software...</strong>
+
+    Great post! I really liked the content and disposition in your topic!...
+---
+<p>The Web 2.0 Expo wasn't that long ago. One of the presentations was really top notch. The presentation is actually a little older than that, but I know there are plenty of people who haven't seen it. It's really not only a great definition of what Web 2.0 really is, but it's also a damn good presentation.</p>
+<p><object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/6gmP4nk0EOE"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/6gmP4nk0EOE" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object></p>

@@ -1,0 +1,37 @@
+---
+layout: post
+status: publish
+published: true
+title: I'm back....
+author: Jeff
+author_login: admin
+author_email: jeff@allthingsdork.com
+author_url: http://www.allthingsdork.com
+wordpress_id: 24
+wordpress_url: http://www.allthingsdork.com/?p=24
+date: '2006-10-08 22:55:41 -0500'
+date_gmt: '2006-10-09 02:55:41 -0500'
+categories:
+- Random
+tags: []
+comments:
+- id: 6
+  author: gizzy
+  author_email: twentyonegizz@yahoo.com
+  author_url: http://
+  date: '2006-10-09 00:13:18 -0500'
+  date_gmt: '2006-10-09 04:13:18 -0500'
+  content: Let me know if you want into the guild, bitch.
+- id: 105938
+  author: social networking software
+  author_email: ''
+  author_url: http://www.social-networking-software.org/
+  date: '2010-08-31 16:12:19 -0500'
+  date_gmt: '2010-08-31 22:12:19 -0500'
+  content: |-
+    <strong>social networking software...</strong>
+
+    Great post! I really liked the content and disposition in your topic!...
+---
+<p><img style="width: 488px; height: 398px" src="http://www.allthingsdork.com/images/wow.gif" /></p>
+<p>Lets see how long it takes me to get left behind. The name is Loar bitches. The Dawn of Argent.</p>

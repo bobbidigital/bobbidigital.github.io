@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: SPAM Mail
+author: Jeff
+author_login: admin
+author_email: jeff@allthingsdork.com
+author_url: http://www.allthingsdork.com
+wordpress_id: 196
+wordpress_url: http://www.allthingsdork.com/?p=196
+date: '2007-11-20 13:29:49 -0600'
+date_gmt: '2007-11-20 17:29:49 -0600'
+categories:
+- Random
+tags: []
+comments: []
+---
+<p>Why do I get the feeling that this doesn't Unsubscribe you?</p>
+<p><a href="http://www.carautocars.com/">Unsub Page</a></p>

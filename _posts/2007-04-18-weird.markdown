@@ -1,0 +1,19 @@
+---
+layout: post
+status: publish
+published: true
+title: Weird
+author: Jeff
+author_login: admin
+author_email: jeff@allthingsdork.com
+author_url: http://www.allthingsdork.com
+wordpress_id: 83
+wordpress_url: http://www.allthingsdork.com/?p=83
+date: '2007-04-18 23:32:53 -0500'
+date_gmt: '2007-04-19 03:32:53 -0500'
+categories:
+- Random
+tags: []
+comments: []
+---
+<p>We bought a 12 pack of Sierra Mist and in the middle of the box was a Pepsi...Looks like someone fucked up at the plant.</p>

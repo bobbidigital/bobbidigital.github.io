@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: Dell 2970/2950 and Solaris
+author: Jeff
+author_login: admin
+author_email: jeff@allthingsdork.com
+author_url: http://www.allthingsdork.com
+wordpress_id: 247
+wordpress_url: http://www.allthingsdork.com/?p=247
+date: '2008-01-23 18:32:44 -0600'
+date_gmt: '2008-01-23 22:32:44 -0600'
+categories:
+- linkedin
+tags:
+- linkedin
+comments:
+- id: 4983
+  author: robbyt
+  author_email: rterhaar@hugeinc.com
+  author_url: http://robbyt.com
+  date: '2008-01-24 16:50:35 -0600'
+  date_gmt: '2008-01-24 20:50:35 -0600'
+  content: I'm in the same boat! What have you found so far?
+---
+<p>I've been having quite a bit of trouble at work trying to get the Dell 2970/2950 playing nice together. Since there was a lot of hard to follow threads out there on the web, I've decided to jot down all the issues and problems we've run into during this horrendous journey. I'll be creating a new category for those who wish to follow along.</p>
+<p>Jeff</p>

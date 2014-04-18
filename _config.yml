@@ -6,19 +6,19 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-description:      Base theme for Jekyll themes by @mdo.
-url:              http://getpoole.com
+title:            All Things Dork
+tagline:          Ramblings of a black nerd
+description:      Ramblings of a black nerd
+url:              http://www.allthingsdork.com
 
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
+  name:           Jeff Smith
+  url:            https://twitter.com/DarkAndNerdy
 
-paginate:         1
+paginate:         20
 
 # Custom vars
 version:          1.0.0
 
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/bobbidigital/allthingsdork

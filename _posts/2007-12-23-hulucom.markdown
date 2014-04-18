@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: Hulu.com
+author: Jeff
+author_login: admin
+author_email: jeff@allthingsdork.com
+author_url: http://www.allthingsdork.com
+wordpress_id: 231
+wordpress_url: http://www.allthingsdork.com/?p=231
+date: '2007-12-23 00:35:23 -0600'
+date_gmt: '2007-12-23 04:35:23 -0600'
+categories:
+- Movies/Television
+tags: []
+comments: []
+---
+<p>Well I finally got my invite to the beta program of Hulu.com. For those that don't know what Hulu is I'll give you a bit of a primer. </p>
+<p>Hulu is intended to be the primary web delivery site for NBC and all of it's owned networks. (USA and SciFi to my knowledge) I'm not sure if it will ultimately replace NBC.com or not, but it would seem a bit redundant to have both sites up and running.</p>
+<p>Now anyone that knows me also knows how much I hate watching streaming web television on my computer. The computer to me just isn't the ideal mechanism for viewing shows, that's just my opinion. But I agreed to put my prejudices aside to give Hulu a spin around the block. I was incredibly surprised on how much I enjoyed the experience.</p>
+<p>The lady and I decided to snuggle up in bed and watch an episode of The Office on Hulu. First of all the video quality is pretty amazing for web delivered content. Streaming only took a handful of seconds for buffering before playback began. The sound quality was also very good, although we were using headphones which always helps. The show begins with a small 30 second ad spot and then rolls seamlessly into the show. </p>
+<p>From there it's your basic web streaming service, with a handful of 30 second ad spots. Unfortunately in our experience each ad spot is the same for every break in the show, but may vary from show to show. So our first episode was filled with ads for National Treasure....at EVERY AD SPOT. Then the next viewing we were blessed with Verizon Wireless commercial spots for the entire show.</p>
+<p>The interface for Hulu is clean, plain and pretty intuitive. Users should have no problem getting acclimated to the site. Now where Hulu shines in new ways is it's embedding feature. Hulu allows me to embed entire videos on my site which is pretty damn cool. So below you can check out an entire episode of the office.</p>
+<p><object width="520" height="295"><param name="movie" value="http://www.hulu.com/embed/5DffktqLrtIvQJBRggcw-erWwZ0Gzion"></param><embed src="http://www.hulu.com/embed/5DffktqLrtIvQJBRggcw-erWwZ0Gzion" type="application/x-shockwave-flash"  width="260" height="148"></embed></object></p>
+<p>So as you can see, quality is good and the ads aren't so obtrusive where you want to vomit. You could stand some variety, but this is FREE. Now that's mighty cool. But it gets cooler. I can also decide to just make a specific clip as opposed to embedding the whole video.</p>
+<p><object width="520" height="295"><param name="movie" value="http://www.hulu.com/embed/5DffktqLrtIvQJBRggcw-erWwZ0Gzion"></param><param name="flashvars" value="st=27&et=68"></param><embed src="http://www.hulu.com/embed/5DffktqLrtIvQJBRggcw-erWwZ0Gzion" type="application/x-shockwave-flash" flashvars="st=27&et=68" width="260" height="148"></embed></object></p>
+<p>That option is pretty cool, especially considering that you can e-mail it as well. Pretty neat.</p>
+<p>The website has an impressive line up of shows. Some newer shows are strangely absent (Like USA's The 4400) but some shows are strangely present. (Like USA's Airwolf) NBC also has a deal with some of the other networks that they don't own (like FOX) to include their shows too. You'll find The Simpsons, Family Guy and Firefly as a few welcome additions. </p>
+<p>While this is no replacement for iTunes, it's still a valiant effort. My biggest problem as noted before is the demand to watch it on the computer. Also I can't take the media with me which is a major blow. I do most of my video watching on a commute of some form or another. The other bummer is that Hulu doesn't have ALL episodes of a given show. I'm not sure what there criteria is or if there still encoding shows for the web, but its kind of a bummer when you want to catch up on a show or get acquainted with one that's been on the air for awhile.</p>
+<p>All in all Hulu is a nice attempt. It really doesn't do anything wrong but it can't escape what it is. Another web based streaming content site. The biggest thing that puts it above others is its content. Oh well, we can hope NBC and Apple come to terms and return joy and love to the Internet content world. Until then Hulu will do.</p>

@@ -1,0 +1,64 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Siege #1'
+author: Jeff
+author_login: admin
+author_email: jeff@allthingsdork.com
+author_url: http://www.allthingsdork.com
+wordpress_id: 634
+wordpress_url: http://www.allthingsdork.com/?p=634
+date: '2010-01-24 15:24:36 -0600'
+date_gmt: '2010-01-24 21:24:36 -0600'
+categories:
+- Comic Books
+tags:
+- Comic Books
+- marvel
+- siege
+comments:
+- id: 105701
+  author: "&ETH;\x90&ETH;&frac12;&Ntilde;&sbquo;&ETH;&frac34;&ETH;&frac12; &ETH;&Yuml;&ETH;&deg;&ETH;&sup2;&ETH;&raquo;&ETH;&frac34;&ETH;&sup2;&ETH;&cedil;&Ntilde;&Dagger;"
+  author_email: ''
+  author_url: http://%/a3a21
+  date: '2010-03-18 09:54:36 -0500'
+  date_gmt: '2010-03-18 15:54:36 -0500'
+  content: "<strong><a href=\"http://metropolisstuff.ru\" rel=\"nofollow\">
+    </a> If you haven&#8217;t read SIEGE #1 and plan to, I would say you should
+    skip this review right away as it will riddled with spoilers.....</strong>\n\n&ETH;&macr;
+    &ETH;&cedil;&ETH;&middot;&ETH;&sup2;&ETH;&cedil;&ETH;&frac12;&Ntilde;\x8F&Ntilde;Ž&Ntilde;\x81&Ntilde;&OElig;,
+    &ETH;&frac12;&ETH;&frac34;, &ETH;&iquest;&ETH;&frac34;-&ETH;&frac14;&ETH;&frac34;&ETH;&micro;&ETH;&frac14;&Ntilde;&fnof;,
+    &ETH;&rsquo;&Ntilde;&lsaquo; &ETH;&frac12;&ETH;&micro; &ETH;&iquest;&Ntilde;&euro;&ETH;&deg;&ETH;&sup2;&Ntilde;&lsaquo;.
+    &ETH;&macr; &Ntilde;&fnof;&ETH;&sup2;&ETH;&micro;&Ntilde;&euro;&ETH;&micro;&ETH;&frac12;.
+    &ETH;&Yuml;&ETH;&cedil;&Ntilde;&circ;&ETH;&cedil;&Ntilde;&sbquo;&ETH;&micro; &ETH;&frac14;&ETH;&frac12;&ETH;&micro;
+    &ETH;&sup2; PM, &ETH;&iquest;&ETH;&frac34;&ETH;&sup3;&ETH;&frac34;&ETH;&sup2;&ETH;&frac34;&Ntilde;&euro;&ETH;&cedil;&ETH;&frac14;...."
+- id: 105866
+  author: Kylie Batt
+  author_email: ''
+  author_url: http://%/q2131q21211
+  date: '2010-04-16 17:24:46 -0500'
+  date_gmt: '2010-04-16 23:24:46 -0500'
+  content: "<strong>&ETH;&macr; &ETH;&cedil;&ETH;&middot;&ETH;&sup2;&ETH;&cedil;&ETH;&frac12;&Ntilde;\x8F&Ntilde;Ž&Ntilde;\x81&Ntilde;&OElig;,
+    &ETH;&frac12;&ETH;&frac34;, &ETH;&iquest;&ETH;&frac34;-&ETH;&frac14;&ETH;&frac34;&ETH;&micro;&ETH;&frac14;&Ntilde;&fnof;,
+    &ETH;&rsquo;&Ntilde;&lsaquo; &ETH;&frac12;&ETH;&micro; &ETH;&iquest;&Ntilde;&euro;&ETH;&deg;&ETH;&sup2;&Ntilde;&lsaquo;.
+    &ETH;&Yuml;&ETH;&cedil;&Ntilde;&circ;&ETH;&cedil;&Ntilde;&sbquo;&ETH;&micro; &ETH;&frac14;&ETH;&frac12;&ETH;&micro;
+    &ETH;&sup2; PM....</strong>\n\n&ETH;&deg; <a href=\"http://www.intermost.ru/contents/198/\"
+    rel=\"nofollow\"> </a> &ETH;&cedil;&ETH;&frac14;&ETH;&iquest;&ETH;&frac34;&Ntilde;&euro;&Ntilde;&sbquo;
+    From the news I [......."
+- id: 105900
+  author: Kylie Batt
+  author_email: ''
+  author_url: http://%/q2131q2121
+  date: '2010-05-12 22:27:21 -0500'
+  date_gmt: '2010-05-13 04:27:21 -0500'
+  content: |-
+    <strong>&ETH;&rsquo;&Ntilde;&lsaquo; &Ntilde;&sbquo;&ETH;&frac34;&ETH;&iquest;&ETH;&cedil;&ETH;&ordm; &Ntilde;&Dagger;&ETH;&cedil;&Ntilde;&sbquo;&ETH;&deg;&ETH;&raquo;&ETH;&cedil;?...</strong>
+
+    <a href="http://kc-abist.ru/archives/691" rel="nofollow"> </a> From the news I [.......
+---
+<p><img style="margin: 5px; float: right; height:400px; width:263px;" src="http://www.allthingsdork.com/images/siege1.jpg" alt="" />If you haven't read SIEGE #1 and plan to, I would say you should skip this review right away as it will riddled with spoilers.</p>
+<p>With everything that's been going on in the Marvel universe, specifically with Norman Osborn and his new group H.A.M.M.E.R I was stoked about the release of SIEGE. From the news I read about the series, it would serve as the culmination of Osborn's stranglehold on power. The series starts with a bang, literally. The destruction of Soldier Field in Chicago kicks off a chain of events which ultimately lead to the invasion of Asgard, home of the Norse Gods. (For those that haven't followed, Asgard is now on Earth, hovering over a town in Oklahoma to be more precise)</p>
+<p>The idea of Norman and his crew invading Asgard is balls to the walls insane. That's why I love it. It sounds so reckless that you're waiting to see Norman's plan unfold into something more grand.&Acirc;&nbsp; During the invasion, a small wrinkle develops in the invasion. Thor shows up. Norman's a smart guy, so I'm not fully convinced he wasn't either expecting this or have a contingency plan for it.</p>
+<p>The battle against Thor is what really sinks the issue for me. Right up to this point, I'm loving it, but the attack against Thor deserved SO much more panel space. You have Norman's cronies absolutely HANDLING Thor and it receives nothing more than a few wide angle panels. Where's the drama? Where's the tension? Where's the close ups of a juggernaut like Thor getting a couple of shots in? If this were a regular title, it wouldn't bother me so much. But this is supposed to be an event book and an EPIC event book at that. So I was a tad disappointed in how the issue ended, especially when compared to how it started.</p>
+<p>Will I read issue #2? Absolutely</p>
