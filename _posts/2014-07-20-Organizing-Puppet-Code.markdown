@@ -27,6 +27,7 @@ Tools like [Librarian-Puppet](http://librarian-puppet.com) and [R10K](https://gi
 
 ##Easier Merging/Rebasing and Testing##
 The Puppet code base is primarily supported by the Systems team. The world of VCS is still relatively new to the Systems discipline. As we get more comfortable with these tools, we tend to make some of the same mistakes developers make in their early years. The thing that comes to mind is commit size and waiting too long to merge upstream. (Or REBASE if that's your thing) Keeping the modules in separate repositories tightens the problem space your coding for. If you need create a new parameter for a Tomcat module, a systems guy will probably
+
 1. Create the feature branch
 2. Modify the Tomcat module to accept parameters
 3. Modify the profiles to use the parameters
@@ -36,6 +37,7 @@ The Puppet code base is primarily supported by the Systems team. The world of VC
 7. Test
 8. Commit
 9. Merge
+
 With separate modules, the problem space gets shrunken to "Allow Tomcat to accept SHUTDOWN PORT as a parameter".  We've removed the profile out of the problem scope for now and have just focused on Tomcat accepting the parameter. Which also means you need a new, independent way to test this functionality, which means tests local to the module. ([rspec-puppet](http://rspec-puppet.com) anyone?) This doesn't even include the potential for merge hell that could occur when this finally does get committed and pushed to master.
 Now I'm not naive. I know that this **could** theoretically happen even with separate modules, but I'm hoping the extra work involved would serve as a deterrent. Not to mention that gut feeling you get when you're approaching a problem the wrong way.
 
