@@ -1,0 +1,28 @@
+---
+layout: post
+title: Why Everyone Should Attend a Conference
+comments: true
+author: Jeff
+---
+
+This has been a week of conference bliss for me. I attended [Puppet Camp Chicago](http://puppetlabs.com/events/puppet-camp-chicago-0) earlier in the week and spent the rest of the week I'll at [Linux Con](http://events.linuxfoundation.org/events/linuxcon-north-america). I've never been a big conference attendee in the profesisonal aspect of my life, so it was a bit of a first. I have to tell you it's an awesome experience.
+
+My experience has left me with a single question; Why are managers not pushing harder for employees to attend conferences? I'm paying for Linux Con out of my own pocket, but conference attendance is something bosses should embrace. It may seem like a scheme for employees to get a week off with paid expenses, but I assure you, it's more than that.
+
+The energy at a convention is like nothing you've experienced before. The space is filled with upbeat professionals that are tackling problems both incredibly similar and radically different than your own. The conference talks usually run the gamut in terms of experience levels. As an attendee you'd be hardpressed to not find something you're interested in. Here's my line up for Day 1 of the conference. This doesn't include all of the talks I had to skip because of timing conflicts.
+
+* **Linux Performance Tools**  - There are many performance tools nowadays for Linux, but how do they all fit together, and when do we use them? This talk summarizes the three types of performance tools: observability, benchmarking, and tuning, providing a tour of what exists and why they exist. Advanced tools including those based on tracepoints, kprobes, and uprobes are also included: perf_events, ktap, SystemTap, LTTng, and sysdig. You'll gain a good understanding of the performance tools landscape, knowing what to reach for to get the most out of your systems.
+
+* **Tuning Linux for Your Database** -  Many operations folk know the many Linux filesystems like EXT4 or XFS, they know of the schedulers available, they see the OOM killer coming and more. However, appropriate configuration is necessary when you're running your databases at scale.  Learn best practices for Linux performance tuning for MySQL, PostgreSQL, MongoDB, Cassandra and HBase. Topics that will be covered include: filesystems, swap and memory management, I/O scheduler settings, using the tools available (like iostat/vmstat/etc), practical kernel configuration, profiling your database, and using RAID and LVM.
+
+* **Solving the Package Problem** -  In the beginning there was RPM (and Debian packages) and it was good. Certainly, Linux packaging has solved many problems and pain points for system admins and developers over the years -- but as software development and deployment have evolved, new pain points have cropped up that have not been solved by traditional packaging.  In this talk, Joe Brockmeier will run through some of the problems that admins and developers have run into, and some of the solutions that organizations should be looking at to solve their issues with developing and deploying software. This includes Software Collections, Docker containers, OStree and rpm-ostree, Platform-as-a-Service, and more.
+
+* **From MySQL Instance to Big Data** - MySQL is the most popular database on the web but how do you grow from one instance on a single LAMP box to meets needs of high availability, big data, and/or 'drinking from the fire hose' without losing your sanity. This presentation covers best practices such as DRBD, read/write splitting, clustering, the new Fabric tool, and feeding Hadoop. 80% of Hadoop sites are fed from MySQL instances and it can be frustrating without guidance. MySQL's Fabric will manage sharding and provide more flexibility for your data. And using the memcached protocol to access data as a key/value pair can be up to 9 time faster than SQL (but 
+
+All of these talks are items that can help my career and my employer **today**.  It has givien	 me a level of enthusiasm that I haven't had in quite some time. Now imagine if you could give that level of education, motivation and enthusiasm to every member of your team.  
+
+My conference buddy and I have already identified several technologies we want to look at implementing, as well as developed contacts with people who are already using them. We've met with some great people at [Puppet Labs](https://www.puppetlabs.com), like [Lindsey Smith](https://twitter.com/turbodog), the Puppet Enterprise product owner, who listened to our real world problems and pain points. He also got us setup with the [Puppet Labs Test Pilot Program](http://puppetlabs.com/community/puppet-test-pilots-program) so that we can be involved in the direction of Puppet Enterprise.
+
+We grabbed a few beers with [Morgan Tocker](http://www.tocker.ca) the MySQL Community manager at Oracle. We shared stories, talked about some of our struggles with MySQL and just generally had a good time and got a ton of insight into potential pain points in the future as well as features to leverage in upcoming releases.
+
+When we get back to the office on Monday, we've got a ton of things to discuss, evaluate, re-evaluate and expand upon. That's the power of conferences, and if you're a manager, it's why you should consider the next request for conference funds a little more carefully.
