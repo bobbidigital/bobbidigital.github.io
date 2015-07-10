@@ -18,8 +18,6 @@ The example is extreme but it highlights a few things.
 1. Priorities are fluid
 2. Priorities are (usually) obvious
 
-This means that sometimes important things slip. It's the nature of the world. You can stay up all night working insane hours while you miss out on the other important items that should have your priority.  
-
-We like the idea of multiple priorities because it makes it easier to rationalize your choices. "I'm not saying work is more important than you honey. You're both my priority." But that's bullshit. You're not at dinner or at the zoo with your kid, you're in your office working. 
+This means that sometimes important things slip. It's the nature of the world. We like the idea of multiple priorities because it makes it easier to rationalize your choices. "I'm not saying work is more important than you honey. You're both my priority." But that's bullshit. You're not at dinner or at the zoo with your kid, you're in your office working. 
 
 The idea of a single priority forces us to stare the reality of our choices right in the eyes. You've chosen this over that. Own that choice and everything that it implies.  Or re-evaluate your priority. 
