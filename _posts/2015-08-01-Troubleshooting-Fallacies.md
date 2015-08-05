@@ -1,3 +1,9 @@
+---
+layout: post
+title: Troubleshooting Fallacies
+comments: true
+author: Jeff
+---
 
 An outage on a large distributed system can be a very difficult thing to troubleshoot.  The pressures of an outage can often lead to making poor or shortcut decisions. When the system is down, the drive is to get the system back operational as quickly as possible. But sometimes we sacrifice process for the sake of speed.
 
