@@ -1,4 +1,3 @@
-#The High Cost of Low-Friction Infrastructure#
 
 The impact that cloud computing is having on technology organizations is undeniable. It's allowing companies to move at an unprecedented speed, churning out infrastructure as effortlessly as pushing a button in a Jenkins job. Gone are the days of counting infrastructure delivery time in quarters. Now the timescale is in minutes.  While the agony of endless change gates for hardware has been applauded by most of us in the industry, our zeal for the speed gained has left us unaware of what's been lost. There are no perfect systems. **Everything** comes with a cost.
 

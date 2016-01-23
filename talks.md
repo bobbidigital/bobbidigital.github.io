@@ -28,4 +28,4 @@ Monitoring is kind of a big deal. But once you get past the best hits of CPU, RA
 
 I've started working on a series of talks with regards to CAMS. (Culture, Automation, Measurement/Metrics and Sharing) This is the first in the series that I gave at the DevOps Chicago Meetup group. I hope to give the next talk in the series in March of 2016.
 
-[![Starting with C](http://imgur.com/G7TNigq)](https://vimeo.com/150753897)
+[![Starting with C](http://i.imgur.com/G7TNigq.jpg?1)](https://vimeo.com/150753897)
