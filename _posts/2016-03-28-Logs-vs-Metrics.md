@@ -5,7 +5,7 @@ comments: true
 author: Jeff
 ---
 
-I constantly struggle with the idea that a log entry and a metric are not the same thing. Both provide value, but they're telling different stories. The problem is that the distinction is a lot like pornography. I'm not 100% sure how to define it. 
+I constantly struggle with the idea that a log entry and a metric are not the same thing. Both provide value, but they're telling different stories. The problem is that the distinction is a lot like pornography. [I'm not 100% sure how to define it](https://en.wikipedia.org/wiki/I_know_it_when_I_see_it). 
 
 In my shop, our applications emit a **lot** of data. Now some of you are reading and thinking that this is a first world problem in the technology space; I get that. But the problem is when I try to use the right tool to evaluate that data. Should this go into a log file to be aggregated by a tool like ELK or Splunk? Or should this just be a tick that fires and is sent to a metrics collector like Graphite? How do I articulate that choice to a developer?
 
