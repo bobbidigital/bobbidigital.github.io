@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Man of Steel: Not My Superman
+title: Man of Steel - Not My Superman
 comments: true
 author: Jeff
 ---
