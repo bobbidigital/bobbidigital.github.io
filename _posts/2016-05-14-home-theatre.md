@@ -22,7 +22,7 @@ You'll want a nice big fat key size (hence the 4096) just to future proof it. An
 
 ```chmod 700 <key_file_name.key>```
 
-Now you need to get that public key on to the server. The easiest way to do that is using the command [ssh-copy-id](). Once again, stress the importance of knowing the difference between the two keys, you should only copy your **public** key to the server. (The file ending in .pub)
+Now you need to get that public key on to the server. The easiest way to do that is using the command [ssh-copy-id](http://linux.die.net/man/1/ssh-copy-id). Once again, stress the importance of knowing the difference between the two keys, you should only copy your **public** key to the server. (The file ending in .pub)
 
 ```ssh-copy-id -i <key_file_name.key.pub> <user>@<ipaddress>```
 
