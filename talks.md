@@ -29,3 +29,16 @@ Monitoring is kind of a big deal. But once you get past the best hits of CPU, RA
 I've started working on a series of talks with regards to CAMS. (Culture, Automation, Measurement/Metrics and Sharing) This is the first in the series that I gave at the DevOps Chicago Meetup group. I hope to give the next talk in the series in March of 2016.
 
 [![Starting with C](http://i.imgur.com/G7TNigq.jpg?1)](https://vimeo.com/150753897)
+
+# DevOps: What's Buried in the Fine Print
+
+I gave this talk at DevOps Days Minneapolis in 2016. It 's a bit of a walkthrough of my experience with [Grubhub](https://www.grubhub.com) as we made our way through the DevOps journey.
+
+[![DevOps: What's Buried in the Fine Print](http://img.youtube.com/vi/ZaY4vSh_-tY/0.jpg)](https://www.youtube.com/watch?v=ZaY4vSh_-tY&feature=youtu.be)
+
+
+# Dungeons and Dragons and DevOps
+
+My first ignite talk! Comparing the process of creating a Dungeons and Dragons campaign, with building a DevOps team.
+
+[![Dungeons and Dragons and DevOps](https://dl.dropboxusercontent.com/u/2527561/ddd.jpg)](https://www.youtube.com/watch?v=U9wBgFEnWjY&feature=youtu.be&t=19407)
